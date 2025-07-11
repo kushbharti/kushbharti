@@ -1,5 +1,5 @@
 <h1> 💫 About Me: </h1>
- <h1> <h1>🔭 I’m currently working with Django. </h1></h1>
+<h1> <h1>🔭 I’m currently working with Django. </h1></h1>
 
 
 <h1>🌐 Socials: </h1>
