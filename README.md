@@ -14,13 +14,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kushbharti&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kushbharti&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
