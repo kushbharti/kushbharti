@@ -1,7 +1,8 @@
 <h1> 💫 About Me: </h1>
 <h2> 🔭 I’m currently working with Django. </h2>
 
-<img width="500" align="right" alt="coding" src="https://github.com/user-attachments/assets/e500789d-aa68-432a-8f45-17ed636fbbba" />
+<img width="500" align="right" alt="coding" src="https://bitbinders.in/wp-content/uploads/2021/04/websitedesigninggif.gif" />
+
 
 <h1>🌐 Socials: </h1>
 <p align="left">
