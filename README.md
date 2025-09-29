@@ -1,5 +1,5 @@
 <h1> 💫 About Me: </h1>
-<h2> 🔭 I’m currently working with Django. </h2>
+<h2> 🔭 I’m currently working with Django | DRF | FastAPI. </h2>
 
 <img width="500" align="right" alt="coding" src="https://bitbinders.in/wp-content/uploads/2021/04/websitedesigninggif.gif" />
 
