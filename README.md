@@ -1,5 +1,10 @@
 # 💫 About Me:
-I’m currently working on backend engineered.
+
+<p> Backend Developer passionate about designing and building scalable, secure, and high-performance applications. I enjoy transforming complex business requirements into robust backend systems by developing clean RESTful APIs, optimizing databases, and writing maintainable, production-ready code.
+
+My primary focus is on backend engineering using modern technologies while following software engineering best practices, including clean architecture, authentication and authorization, caching, database optimization, and API design. I also have a strong interest in distributed systems, cloud computing, DevOps, AI-powered applications, and system performance optimization.
+
+I continuously explore new technologies, solve challenging engineering problems, and build projects that emphasize scalability, reliability, and real-world impact. My goal is to create backend systems that are efficient, maintainable, and capable of supporting modern applications at scale. </p>
 
 <img width="500" align="right" alt="coding" src="https://bitbinders.in/wp-content/uploads/2021/04/websitedesigninggif.gif" />
 
