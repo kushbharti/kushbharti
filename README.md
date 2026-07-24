@@ -1,10 +1,15 @@
-# 💫 About Me:
+# 💫 About Me
 
-<p> Backend Developer passionate about designing and building scalable, secure, and high-performance applications. I enjoy transforming complex business requirements into robust backend systems by developing clean RESTful APIs, optimizing databases, and writing maintainable, production-ready code.
+Backend Developer passionate about designing and building **scalable**, **secure**, and **high-performance** applications. Transforming complex business requirements into **robust backend systems** by developing **clean RESTful APIs**, optimizing **databases**, and writing **maintainable**, **production-ready code**.
 
-My primary focus is on backend engineering using modern technologies while following software engineering best practices, including clean architecture, authentication and authorization, caching, database optimization, and API design. I also have a strong interest in distributed systems, cloud computing, DevOps, AI-powered applications, and system performance optimization.
+My primary focus is on **backend engineering** using modern technologies while following **software engineering best practices**, including **Clean Architecture**, **Authentication & Authorization**, **Caching**, **Database Optimization**, and **API Design**. I also have a strong interest in **Distributed Systems**, **Cloud Computing**, **DevOps**, **AI-powered Applications**, and **Performance Optimization**.
 
-I continuously explore new technologies, solve challenging engineering problems, and build projects that emphasize scalability, reliability, and real-world impact. My goal is to create backend systems that are efficient, maintainable, and capable of supporting modern applications at scale. </p>
+I continuously explore new technologies, solve challenging engineering problems, and build projects that emphasize **Scalability**, **Reliability**, and **Real-World Impact**. My goal is to create backend systems that are **efficient**, **maintainable**, and capable of supporting modern applications at scale.
+
+### 🚀 Core Expertise
+
+`Backend Engineering` • `RESTful APIs` • `Clean Architecture` • `Authentication & Authorization` • `Caching` • `Database Optimization` • `API Design` • `Distributed Systems` • `Cloud Computing` • `DevOps` • `AI Integration` • `Performance Optimization`
+> *"Building software isn't just about making it work—it's about making it scalable, maintainable, and ready for production."*
 
 <img width="500" align="right" alt="coding" src="https://bitbinders.in/wp-content/uploads/2021/04/websitedesigninggif.gif" />
 
