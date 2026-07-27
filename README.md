@@ -9,7 +9,7 @@ Driven by **Backend Engineering** and modern software engineering principles, I 
 `Backend Engineering` • `RESTful APIs` • `System Design` • `Clean Architecture` • `Authentication & Authorization` • `Database Optimization` • `Caching` • `Cloud Computing` • `DevOps` • `AI Integration`
 > *"Building software isn't just about making it work—it's about making it scalable, maintainable, and ready for production."*
 
-<img width="250" align="right" alt="coding" src="https://bitbinders.in/wp-content/uploads/2021/04/websitedesigninggif.gif" />
+<img width="500" align="right" alt="coding" src="https://bitbinders.in/wp-content/uploads/2021/04/websitedesigninggif.gif" />
 
 
 # 🌐 Socials:
