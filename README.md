@@ -6,7 +6,6 @@
   <a href="https://instagram.com/ku_sh.07"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-
 ## 💫 About Me
 
 Backend Developer passionate about building **scalable**, **secure**, and **high-performance** applications. I enjoy transforming complex business requirements into **robust backend systems** through **clean RESTful APIs**, **optimized databases**, and **maintainable, production-ready code**.
@@ -24,11 +23,6 @@ Driven by backend engineering and modern software design principles, I focus on 
 - Database Optimization & Caching
 - Cloud Computing & DevOps
 - AI Integration
-
-
-
-
-
 
 ## 🛠️ Tech Stack
 
@@ -63,13 +57,11 @@ Driven by backend engineering and modern software design principles, I focus on 
   <img src="https://skillicons.dev/icons?i=aws,azure,firebase,vercel,heroku,netlify,cloudflare" />
   <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" title="Render" />
 
-
 <!-- DevOps & Tools -->
 
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,nginx,prometheus,grafana,git,github,gitlab,postman" />
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" title="Swagger" />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" width="48" title="Selenium" />
-
 
 <!-- AI / Machine Learning -->
 
@@ -79,7 +71,6 @@ Driven by backend engineering and modern software design principles, I focus on 
   <img src="https://cdn.simpleicons.org/pandas/150458" width="48" title="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" title="Matplotlib" />
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" title="Streamlit" />
-
 
 <!-- Messaging & Design -->
 
