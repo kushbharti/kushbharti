@@ -14,7 +14,7 @@ Backend Developer passionate about building **scalable**, **secure**, and **high
 Driven by backend engineering and modern software design principles, I focus on building reliable systems using **Clean Architecture**, **Authentication & Authorization**, **Caching**, **API Design**, and **Performance Optimization**. I'm also passionate about **Distributed Systems**, **Cloud Computing**, **DevOps**, and **AI Integration** — continuously learning and building software designed for scalability, reliability, and real-world impact.
 
 > *"Building software isn't just about making it work — it's about making it scalable, maintainable, and ready for production."*
-
+<img width="500"  align="right" alt="coding" src="https://bitbinders.in/wp-content/uploads/2021/04/websitedesigninggif.gif" />
 
 ## 🚀 Core Expertise
 
@@ -26,7 +26,7 @@ Driven by backend engineering and modern software design principles, I focus on 
 - AI Integration
 
 
-<img width="500"  align="right" alt="coding" src="https://bitbinders.in/wp-content/uploads/2021/04/websitedesigninggif.gif" />
+
 
 
 
